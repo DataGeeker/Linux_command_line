@@ -1,8 +1,8 @@
-Use [![Join the chat at https://gitter.im/learnbyexample/scripting_course](https://badges.gitter.im/learnbyexample/scripting_course.svg)](https://gitter.im/learnbyexample/scripting_course) if you need help, have suggestions, etc
+如果你需要帮助、建议等等，使用[![Join the chat at https://gitter.im/learnbyexample/scripting_course](https://badges.gitter.im/learnbyexample/scripting_course.svg)](https://gitter.im/learnbyexample/scripting_course) 
 
 <br>
 
-# <a name="linux-command-line"></a>Linux Command Line
+# <a name="linux-command-line"></a>Linux命令
 
 Introduction to Linux commands and Shell scripting
 
